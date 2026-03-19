@@ -1,0 +1,159 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Alberta Catharine",
+      "account": "companydomain/AlbertaCatharine",
+      "email": "AlbertaCatharine@companydomain.com",
+      "group": "CDN/CEO",
+      "phone": "+123(456)123-45-66"
+    },
+    {
+      "id": 2,
+      "fullName": "Alexander Suhotin",
+      "account": "companydomain/AlexanderSuhotin",
+      "email": "AlexanderSuhotin@companydomain.com",
+      "group": "CDN/Managers",
+      "phone": "+123(456)123-45-66"
+    },
+    {
+      "id": 3,
+      "fullName": "Andrey Fedorov",
+      "account": "companydomain/AndreyFedorov",
+      "email": "AndreyFedorov@companydomain.com",
+      "group": "CDN/Managers",
+      "phone": "+123(456)123-45-66"
+    },
+    {
+      "id": 4,
+      "fullName": "Azobe Cylister",
+      "account": "companydomain/AzoberCylister",
+      "email": "AzoberCylister@companydomain.com",
+      "group": "Unmanaged",
+      "phone": "+123(456)123-45-66"
+    },
+    {
+      "id": 5,
+      "fullName": "Bree David",
+      "account": "companydomain/BreeDavid",
+      "email": "BreeDavid@companydomain.com",
+      "group": "CDN/Managers",
+      "phone": "+123(456)123-45-66"
+    },
+    {
+      "id": 6,
+      "fullName": "Breeve Davide",
+      "account": "companydomain/BreeveDavide",
+      "email": "BreeveDavide@companydomain.com",
+      "group": "CDN/Financials",
+      "phone": "+123(456)123-45-66"
+    },
+    {
+      "id": 7,
+      "fullName": "Carolyn Thersa",
+      "account": "companydomain/CarolynThersa",
+      "email": "CarolynThersa@companydomain.com",
+      "group": "CDN/Top Kvants",
+      "phone": "+123(456)123-45-66"
+    },
+    {
+      "id": 8,
+      "fullName": "Darlene Carry",
+      "account": "companydomain/DarleneCarry",
+      "email": "DarleneCarry@companydomain.com",
+      "group": "CDN/Human resources",
+      "phone": "+123(456)123-45-66"
+    },
+    {
+      "id": 9,
+      "fullName": "Gold Dollar",
+      "account": "companydomain/GoldDollar",
+      "email": "GoldDollar@companydomain.com",
+      "group": "CDN/Managers",
+      "phone": "+123(456)123-45-66"
+    },
+    {
+      "id": 10,
+      "fullName": "Hermelinda Lilia",
+      "account": "companydomain/HermelindaLilia",
+      "email": "HermelindaLilia@companydomain.com",
+      "group": "CDN/Outsourced",
+      "phone": "+123(456)123-45-66"
+    },
+    {
+      "id": 11,
+      "fullName": "Kylie Fransisca",
+      "account": "companydomain/KylieFransisca",
+      "email": "KylieFransisca@companydomain.com",
+      "group": "CDN/Kvants",
+      "phone": "+123(456)123-45-66"
+    },
+    {
+      "id": 12,
+      "fullName": "Nikita Mikhailov",
+      "account": "companydomain/NikitaMikhailov",
+      "email": "NikitaMikhailov@companydomain.com",
+      "group": "CDN/Kvants",
+      "phone": "+123(456)123-45-66"
+    },
+    {
+      "id": 13,
+      "fullName": "Ranae Tawny",
+      "account": "companydomain/RanaeTawny",
+      "email": "RanaeTawny@companydomain.com",
+      "group": "CDN/Kvants",
+      "phone": "+123(456)123-45-66"
+    },
+    {
+      "id": 14,
+      "fullName": "Sergey Fedotov",
+      "account": "companydomain/SergeyFedotov",
+      "email": "SergeyFedotov@companydomain.com",
+      "group": "CDN/Managers",
+      "phone": "+123(456)123-45-66"
+    },
+    {
+      "id": 15,
+      "fullName": "Sherley Shaunta",
+      "account": "companydomain/SherleyShaunta",
+      "email": "SherleyShaunta@companydomain.com",
+      "group": "CDN/Sales",
+      "phone": "+123(456)123-45-66"
+    },
+    {
+      "id": 16,
+      "fullName": "Sordels Photoon",
+      "account": "companydomain/SordelsPhotoon",
+      "email": "SordelsPhotoon@companydomain.com",
+      "group": "Unmanaged",
+      "phone": "+123(456)123-45-66"
+    },
+    {
+      "id": 17,
+      "fullName": "Travis Jaclyn",
+      "account": "companydomain/TravisJaclyn",
+      "email": "TravisJaclyn@companydomain.com",
+      "group": "Unmanaged",
+      "phone": "+123(456)123-45-66"
+    },
+    {
+      "id": 18,
+      "fullName": "Victor Osipov",
+      "account": "companydomain/VictorOsipov",
+      "email": "VictorOsipov@companydomain.com",
+      "group": "Unmanaged",
+      "phone": "+123(456)123-45-66"
+    }
+  ],
+  "groups": [
+    "CDN/CEO",
+    "CDN/Managers",
+    "Unmanaged",
+    "CDN/Financials",
+    "CDN/Top Kvants",
+    "CDN/Human resources",
+    "CDN/Outsourced",
+    "CDN/Kvants",
+    "CDN/Sales"
+  ]
+}
